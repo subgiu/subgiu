@@ -6,7 +6,7 @@ Full-stack engineer, technical leader, team coordinator, and software architect.
 I was also a Chief Technology Officer (CTO) in a startup, responsible for all the technical aspects from the beginning.  
 In two months, we reduced the number of medical sick notes by 20%.
 
-Now, I am hoping to use my experience to help to provide solutions that will impact people’s lives, that will turn people’s lives better.  
+Now, I hope to use my experience to help provide solutions that will impact people’s lives, making them better.  
 It is a big motivation for me.
 
 
