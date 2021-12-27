@@ -4,7 +4,7 @@ I am a Computer Science professional with more than 14 years of experience in so
 Full-stack engineer, technical leader, team coordinator, and software architect.
 
 I was also a Chief Technology Officer (CTO) in a startup, responsible for all the technical aspects from scratch.  
-In two months, we reduced medical sick notes by 20%.
+In two months, we reduced medical sick notes by 20%. **This solution is a private repository here.** 
 
 Now, I hope to use my experience to help provide solutions that will impact people’s lives, making their lives better.  
 It is a big motivation for me.
@@ -12,8 +12,27 @@ It is a big motivation for me.
 
 <a href="https://www.linkedin.com/in/giuliano-rezende/?locale=en_US"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
             
+<br/>
+<hr />
 
-#### A little bit about my background!
+#### Some technologies I have already used and love.
+            
+ <div style="display: inline_block"><br>
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">            
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
+  <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">          
+  <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">             
+  <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">          
+  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Heroku" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg">          
+                                                              
+</div>    
+            
+<br/>
+<hr />
 
 ```json
 {
