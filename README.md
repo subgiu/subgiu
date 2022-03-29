@@ -1,12 +1,12 @@
 ### Hi friend! 👋 
 
 I am a Computer Science professional with 15 years of experience in software development.  
-Full-stack engineer, technical leader, team coordinator, and software architect.
+Full-stack developer, technical leader, team coordinator, and software architect.
 
-I was also a Chief Technology Officer (CTO) in a startup, responsible for all the technical aspects from scratch.  
+I was also a Chief Technology Officer (CTO) in a startup, responsible for the entire solution from scratch.  
 In two months, we reduced medical sick notes by 20%.
 
-Now, I hope to use my experience to help provide solutions that will impact people’s lives, making their lives better.  
+Now, I hope to use all this experience to help provide solutions that will impact people’s lives, making their lives better.  
 It is a big motivation for me.
 
 
